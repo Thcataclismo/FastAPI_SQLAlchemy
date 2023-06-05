@@ -11,4 +11,4 @@ Aqui estão algumas das ferramentas e linguagens de programação que eu trabalh
 
 ## Contato
 - [LinkedIn][(perfil do LinkedIn)](https://www.linkedin.com/in/thiago-ribeiroml/)
-- [E-mail](seu endereço de e-mail)](Thiago2002sr@gmail.com)
+- [E-mail](Thiago2002sr@gmail.com)
