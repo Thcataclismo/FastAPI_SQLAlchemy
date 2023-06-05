@@ -8,6 +8,8 @@ Aqui estão algumas das ferramentas e linguagens de programação que eu trabalh
 
 - Python <img src="https://img.icons8.com/color/48/000000/python.png"/>
 - FastAPI <img src="https://img.icons8.com/color/48/000000/api-settings.png"/>
+- SQLAlchemy ![SQLAlchemy Icon](images/sqlalchemy-icon.png)
+
 
 ## Contato
 - [LinkedIn](https://www.linkedin.com/in/thiago-ribeiroml/)
