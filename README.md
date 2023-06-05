@@ -8,7 +8,7 @@ Aqui estão algumas das ferramentas e linguagens de programação que eu trabalh
 
 - Python <img src="https://img.icons8.com/color/48/000000/python.png"/>
 - FastAPI <img src="https://img.icons8.com/color/48/000000/api-settings.png"/>
-- SQLAlchemy <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+- SQLAlchemy <img src ="https://pbs.twimg.com/profile_images/476392134489014273/q5uAkmy7_400x400.png"/>
 
 
 
