@@ -10,5 +10,5 @@ Aqui estão algumas das ferramentas e linguagens de programação que eu trabalh
 - FastAPI <img src="https://img.icons8.com/color/48/000000/api-settings.png"/>
 
 ## Contato
-- [LinkedIn][(perfil do LinkedIn)](https://www.linkedin.com/in/thiago-ribeiroml/)
+- [LinkedIn][(perfil do LinkedIn)
 - [E-mail](Thiago2002sr@gmail.com)
